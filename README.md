@@ -1,3 +1,3 @@
 # MyNotes
-MLMindMapping
-LearningNotes
+##MLMindMapping
+##LearningNotes
