@@ -1,0 +1,34 @@
+Least Square & Gradient Descent
+
+Loss/Cost Function: J= Σ(y ̂_i-y_i )^2   >> J(θ_i )=∑(h(θ_i )-y_i )^2
+>> to optimize by minimizing loss function
+Least Square >> find min J
+Gradient Descent >>  J(θ_0,θ_1,⋯,θ_n )=  ½m ∑_(j=0)^m▒(h_θ (x_0^((j) ),x_1^((j) ),…,x_n^((j) ) )- y_i )^2 
+Take partial derivative >> ∂/∂_(θ_i )  J(θ_0,θ_1…,θ_n   )
+>> set a step length α
+Then  α ∂/(∂θ_i ) J(θ_0,Θ_1,..,Θ_n )
+α ∂/(∂θ_i ) J(θ_0,Θ_1,..,Θ_n )=α 1/m Σ(h_θ (x_0^((j) ),x_1^((j) ),…,x_n^((j) ) )-y_i ) x_i^((j) )
+Each time after a step, we need to update our θi
+ θ_i=θ_i- α ∂/(∂θ_i ) J(θ_0,Θ_1,..,Θ_n )
+That is θ_i=θ_i- α 1/m Σ(h_θ (x_0^((j) ),x_1^((j) ),…,x_n^((j) ) )-y_i ) x_i^((j) )
+Which means, the current step direction depends on the samples, and α 1/m
+Can also be seen as a constant 
+
+In machine learning algorithms, we usually use matrix method to do calculations
+Therefore, here we regard the former functions as a matrix function with
+ Υ.hats as a matrix transformed by sample matrix X and parameter vector θ, that is Y.hats = hθ(X) = Xθ
+Then, the loss function becomes  J(θ)=(Xθ-Y)^T (Xθ-Y)
+We take the gradients/ partial derivatives for the J(θ), then get: ∂/(∂θ_i ) J(θ)=Χ^Τ (Χθ-Y)
+With the update of θ, the matrix expression function can be written as  θ=θ-αX^T (Xθ-Y)
+
+
+
+
+Notes for Gradient Descent to Optimize models
+	The choice of step length
+	The choice of initial value
+	Regularization 
+
+Gradient Descent Family
+>> Batch GD, Stochastic GD, Mini Batch GD
+
