@@ -1,3 +1,6 @@
 # MyNotes
 ##MLMindMapping
-##LearningNotes
+##CheatSheets
+##StatisticsNotes
+##DataNotes
+##MLDLLearningNotes
