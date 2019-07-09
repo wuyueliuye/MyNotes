@@ -16,7 +16,7 @@
 
 [Generating Random Values, Numpy, Torch[ToDo]]()
 
-[Noise & SVD Data[ToDo]]()
+[Noise Data[ToDo]]()
 
 ##### Data Visualization[ToDo]
 
