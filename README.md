@@ -34,7 +34,7 @@
 
 ##### STAT[-ing]
 
-[Frequentist v.s. Bayesian](https://github.com/wuyueliuye/MyNotes/blob/master/Frequentist_vs_Bayesian.md)
+[Frequentist v.s. Bayesian](https://github.com/wuyueliuye/MyNotes/blob/master/Frequentist%20vs%20Bayesian.pdf)
 
 [Accuarcy & Exact Test]()
 
