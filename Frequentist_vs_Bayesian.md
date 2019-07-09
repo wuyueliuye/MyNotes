@@ -10,6 +10,7 @@ Frequentist inference based on likelihood, and does not require a prior hypothes
 $$
 L(\theta|x_i) = \prod_{i=1} ^n P(x_i|\theta)
 $$
+L(θ│x_i )= ∏_{i=1}^n▒〖P(x_i│θ) 〗
 To maximize the likelihood is to maximize its 'log' transformation:
 $$
 log(L(\theta|x_i))=log(\prod_i P(x_i|\theta))=\sum_i log(P(x_i|\theta))
