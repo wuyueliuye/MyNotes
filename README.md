@@ -36,7 +36,7 @@
 
 [Frequentist v.s. Bayesian](https://github.com/wuyueliuye/MyNotes/blob/master/Frequentist%20vs%20Bayesian.pdf)
 
-[Accuarcy & Exact Test]()
+[Accuarcy Related Parameters](https://github.com/wuyueliuye/MyNotes/blob/master/Accuracy_Precision_Recall_RoC_AUC_PR.pdf)
 
 [Gradient Descent](https://github.com/wuyueliuye/MyNotes/blob/master/Gradient_Descent.pdf)
 
