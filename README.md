@@ -40,7 +40,7 @@
 
 [Gradient Descent](https://github.com/wuyueliuye/MyNotes/blob/master/Gradient_Descent.pdf)
 
-[Similarity, Distance & Matrix]()
+[Similarity, Distance & Matrix](https://github.com/wuyueliuye/MyNotes/blob/master/Similarity%2C%20Distance%20%26%20Matrix.pdf)
 
 [Stochastic & Time Series]()
 
