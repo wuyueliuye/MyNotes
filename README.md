@@ -12,8 +12,6 @@
 
 [Data&DataFrame, SQL, Pandas & PySpark[ToDo]]()
 
-[Standardized, Normalization & Regularization[ToDo]]()
-
 [Generating Random Values, Numpy, Torch[ToDo]]()
 
 [Noise Data[ToDo]]()
