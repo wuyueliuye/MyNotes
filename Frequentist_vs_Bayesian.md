@@ -1,8 +1,9 @@
 #### Frequentist v.s. Bayesian
 
 Usually, we face problems that given samples to find out the the hypothesis conditions (parameters). In statistics, that is to maximize:
-$$
+$$ \begin{equation}
 P(Hypotheses|Samples)
+\end{equation}
 $$
 In general, there're 2 major parties for this type of question: Frequentist and Bayesian. 
 
