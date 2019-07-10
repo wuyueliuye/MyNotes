@@ -42,11 +42,11 @@
 
 [Stochastic & Time Series]()
 
+[Regression, Linear_Polynomial_GLM](https://github.com/wuyueliuye/MyNotes/blob/master/Regression%2C%20Linear_Polynomial_GeneralizedLinear.pdf)
+
 [Regularization, L1 & L2]()
 
-[Regression, Linear to Logistics]()
-
-[Classification, Binary to MultiClass and Multilabel](https://github.com/wuyueliuye/MyNotes/blob/master/Classification_Binary_vs_Multiple.pdf)
+[Classification in Logistics, Binary to MultiClass and Multilabel](https://github.com/wuyueliuye/MyNotes/blob/master/Classification_Binary_vs_Multiple.pdf)
 
 [SVM]()
 
