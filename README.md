@@ -8,28 +8,6 @@
 [TOC]
 #### Outline
 
-##### Data Manipulation[ToDo]
-
-[Data&DataFrame, SQL, Pandas & PySpark[ToDo]]()
-
-[Generating Random Values, Numpy, Torch[ToDo]]()
-
-[Noise Data[ToDo]]()
-
-##### Data Visualization[ToDo]
-
-[Matplotlib]()
-
-[ggplot2]()
-
-[Tableau]()
-
-##### Data Mining[ToDo]
-
-[Dimensionality Reduction]()
-
-[Clustering]()
-
 ##### STAT[-ing]
 
 [Frequentist v.s. Bayesian](https://github.com/wuyueliuye/MyNotes/blob/master/Frequentist%20vs%20Bayesian.pdf)
@@ -74,3 +52,24 @@
 
 [PySpark](https://github.com/wuyueliuye/MyNotes/tree/master/CheatSheets/PySpark)
 
+##### Data Manipulation[ToDo]
+
+[Data&DataFrame, SQL, Pandas & PySpark[ToDo]]()
+
+[Generating Random Values, Numpy, Torch[ToDo]]()
+
+[Noise Data[ToDo]]()
+
+##### Data Visualization[ToDo]
+
+[Matplotlib]()
+
+[ggplot2]()
+
+[Tableau]()
+
+##### Data Mining[ToDo]
+
+[Dimensionality Reduction]()
+
+[Clustering]()
