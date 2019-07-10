@@ -8,7 +8,20 @@
 [TOC]
 #### Outline
 
-##### STAT[-ing]
+#### Cheatsheets
+
+[Pandas](https://github.com/wuyueliuye/MyNotes/blob/master/CheatSheets/Pandas%20DataFrame%20Notes.pdf)
+
+[Matplotlib](https://github.com/wuyueliuye/MyNotes/blob/master/CheatSheets/Matplotlib%20Notes.pdf)
+
+[Sklearn](https://github.com/wuyueliuye/MyNotes/blob/master/AlgorithmCheatSheet.pdf)
+
+[PyTorch](https://github.com/wuyueliuye/MyNotes/blob/master/CheatSheets/Pytorch_Cheatsheet.pdf)
+
+[PySpark](https://github.com/wuyueliuye/MyNotes/tree/master/CheatSheets/PySpark)
+
+
+#### STAT[-ing]
 
 [Frequentist v.s. Bayesian](https://github.com/wuyueliuye/MyNotes/blob/master/Frequentist%20vs%20Bayesian.pdf)
 
@@ -28,7 +41,7 @@
 
 [SVM]()
 
-##### Machine Learning[-ing]
+#### Machine Learning[-ing]
 
 [RegressionQuickSearch]()
 
@@ -40,19 +53,8 @@
 
 [Neural Networks]()
 
-##### Cheatsheets
 
-[Pandas](https://github.com/wuyueliuye/MyNotes/blob/master/CheatSheets/Pandas%20DataFrame%20Notes.pdf)
-
-[Matplotlib](https://github.com/wuyueliuye/MyNotes/blob/master/CheatSheets/Matplotlib%20Notes.pdf)
-
-[Sklearn](https://github.com/wuyueliuye/MyNotes/blob/master/AlgorithmCheatSheet.pdf)
-
-[PyTorch](https://github.com/wuyueliuye/MyNotes/blob/master/CheatSheets/Pytorch_Cheatsheet.pdf)
-
-[PySpark](https://github.com/wuyueliuye/MyNotes/tree/master/CheatSheets/PySpark)
-
-##### Data Manipulation[ToDo]
+#### Data Manipulation[ToDo]
 
 [Data&DataFrame, SQL, Pandas & PySpark[ToDo]]()
 
@@ -60,7 +62,7 @@
 
 [Noise Data[ToDo]]()
 
-##### Data Visualization[ToDo]
+#### Data Visualization[ToDo]
 
 [Matplotlib]()
 
@@ -68,7 +70,7 @@
 
 [Tableau]()
 
-##### Data Mining[ToDo]
+#### Data Mining[ToDo]
 
 [Dimensionality Reduction]()
 
