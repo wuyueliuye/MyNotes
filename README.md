@@ -1,9 +1,9 @@
-# MyNotes
-#### MLMindMapping
-#### CheatSheets
-#### StatisticsNotes
-#### DataNotes
-#### MLDLLearningNotes
+### MyNotes Materials
+#MLMindMapping
+#CheatSheets
+#StatisticsNotes
+#DataNotes
+#MLDLLearningNotes
 
 [TOC]
 #### Outline
