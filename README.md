@@ -31,13 +31,13 @@
 
 [Similarity, Distance & Matrix](https://github.com/wuyueliuye/MyNotes/blob/master/Similarity%2C%20Distance%20%26%20Matrix.pdf)
 
-[Stochastic & Time Series]()
-
 [Regression, Linear_Polynomial_GLM](https://github.com/wuyueliuye/MyNotes/blob/master/Regression%2C%20Linear_Polynomial_GeneralizedLinear.pdf)
+
+[Classification in Logistics, Binary to MultiClass and Multilabel](https://github.com/wuyueliuye/MyNotes/blob/master/Classification_Binary_vs_Multiple.pdf)
 
 [Regularization, L1 & L2]()
 
-[Classification in Logistics, Binary to MultiClass and Multilabel](https://github.com/wuyueliuye/MyNotes/blob/master/Classification_Binary_vs_Multiple.pdf)
+[Stochastic Process & Time Series]()
 
 [SVM]()
 
