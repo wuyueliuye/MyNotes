@@ -54,24 +54,4 @@
 [Neural Networks]()
 
 
-#### Data Manipulation[ToDo]
 
-[Data&DataFrame, SQL, Pandas & PySpark[ToDo]]()
-
-[Generating Random Values, Numpy, Torch[ToDo]]()
-
-[Noise Data[ToDo]]()
-
-#### Data Visualization[ToDo]
-
-[Matplotlib]()
-
-[ggplot2]()
-
-[Tableau]()
-
-#### Data Mining[ToDo]
-
-[Dimensionality Reduction]()
-
-[Clustering]()
