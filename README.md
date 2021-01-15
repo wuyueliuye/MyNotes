@@ -1,12 +1,5 @@
 ### MyNotes Materials
-#MLMindMapping
-#CheatSheets
-#StatisticsNotes
-#DataNotes
-#MLDLLearningNotes
 
-[TOC]
-#### Outline
 
 #### Cheatsheets
 
@@ -21,3 +14,5 @@
 [PySpark](https://github.com/wuyueliuye/MyNotes/tree/master/CheatSheets/PySpark)
 
 [RShiny](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
+
+[useful-link](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
